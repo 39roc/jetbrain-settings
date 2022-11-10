@@ -2,9 +2,10 @@
   <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
-  <codeStyleSettings language="JavaScript">
+  <codeStyleSettings language="Vue">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
