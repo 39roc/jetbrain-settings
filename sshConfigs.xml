@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="13.127.197.42" id="dd8a7e33-7d3b-4a75-b908-ab290db213fe" keyPath="$USER_HOME$/.ssh/bastion" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig host="13.127.197.42" id="dd8a7e33-7d3b-4a75-b908-ab290db213fe" keyPath="$USER_HOME$/Downloads/bastion-stg" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
