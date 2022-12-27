@@ -4,6 +4,9 @@
       <sshConfig host="13.127.197.42" id="e0ba7fb9-3907-424c-98c3-687f33f0992a" keyPath="$USER_HOME$/Downloads/bastion-stg" port="22" customName="bastion-stg" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="bastion-stg" />
       </sshConfig>
+      <sshConfig host="13.235.22.204" id="dbb999e9-9ef1-409f-af7a-9d47915885b1" keyPath="$USER_HOME$/Downloads/bastion-prd" port="22" customName="bastion-prd" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="bastion-prd" />
+      </sshConfig>
     </configs>
   </component>
 </application>
