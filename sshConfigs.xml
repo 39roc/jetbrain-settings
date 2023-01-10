@@ -7,6 +7,9 @@
       <sshConfig host="13.235.22.204" id="dbb999e9-9ef1-409f-af7a-9d47915885b1" keyPath="$USER_HOME$/.ssh/bastion-prd.pem" port="22" customName="bastion-prd" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="bastion-prd" />
       </sshConfig>
+      <sshConfig host="35.80.101.226" id="e7394b2c-d507-4c6a-aea2-45ad425dfb71" keyPath="$USER_HOME$/.ssh/bastion-us-dev.pem" port="22" customName="bastion-us-dev" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="bastion-us-dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>
