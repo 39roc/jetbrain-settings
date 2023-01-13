@@ -10,6 +10,9 @@
       <sshConfig host="35.80.101.226" id="e7394b2c-d507-4c6a-aea2-45ad425dfb71" keyPath="$USER_HOME$/.ssh/bastion-us-dev.pem" port="22" customName="bastion-us-dev" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="bastion-us-dev" />
       </sshConfig>
+      <sshConfig host="52.27.160.169" id="ffef9387-1a95-441a-949d-c7e495f6d46b" keyPath="$USER_HOME$/.ssh/bastion-us-dev.pem" port="22" customName="bastion-us-stg" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="bastion-us-stg" />
+      </sshConfig>
     </configs>
   </component>
 </application>
